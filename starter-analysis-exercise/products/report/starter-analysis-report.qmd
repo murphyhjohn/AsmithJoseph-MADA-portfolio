@@ -40,6 +40,7 @@ _Provide enough background on your topic that others can understand the why and 
 
 ## Description of data and data source
 _Describe what the data is, what it contains, where it is from, etc. Eventually this might be part of a methods section._
+The dataset comprises variables related to individuals' physical characteristics, such as height, weight, gender, hair color, and calculated Body Mass Index (BMI) with its classification. Each variable is accompanied by a definition and a range of allowed values as per the codebook.
 
 ## Questions/Hypotheses to be addressed
 _State the research questions you plan to answer with this analysis._
