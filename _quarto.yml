@@ -16,7 +16,7 @@ website:
             file: coding-exercise/coding-exercise.qmd
     right:
       - icon: github 
-        href: https://github.com/Asmithj/AsmithJoseph-MADA-portfolio       
+        href: https://github.com/Asmithj/AsmithJoseph-MADA-portfolio      
 format:
   html:
     theme: cosmo
