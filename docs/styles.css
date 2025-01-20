@@ -1,1 +1,21 @@
 /* css styles */
+
+
+/* Make all the text on the website smaller */
+body {
+  font-size: 12px; /* You can make it even smaller by changing 14px to 12px */
+}
+
+/* Make headings smaller */
+h1 {
+  font-size: 26px; /* Change the size of main headings */
+}
+
+h2 {
+  font-size: 20px; /* Change the size of subheadings */
+}
+
+/* Make paragraph text smaller */
+p {
+  font-size: 12px; /* Change the size of paragraph text */
+}
