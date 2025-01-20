@@ -20,6 +20,6 @@ website:
 format:
   html:
     theme: cosmo
-    highlight: zenburn
+    highlight: monokai
     css: styles.css
     toc: FALSE
