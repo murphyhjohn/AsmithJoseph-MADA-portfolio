@@ -2,7 +2,8 @@
 title: "About me"
 ---
 
-#The Roadmap of My Academic and Career Journey !![My Photo](Images/IMG_0191.jpg)
+#The Roadmap of My Academic and Career Journey !
+#![My Profile Picture](Images/IMG_0191.jpg)
 
 #Hi there! I’m Asmith Joseph, a 3rd-year Ph.D. student in Epidemiology and Biostatistics and a researcher at the Global Health Institute. Originally from sunny Tampa, Florida, my academic adventure began with a bachelor’s degree in health sciences and public health. Along the way, I explored my love for languages by earning a Master’s in French and Applied Linguistics at the University of South Florida. To top it off, I completed my Master of Public Health in Epidemiology at Florida International University.
 
